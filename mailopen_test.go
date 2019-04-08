@@ -7,9 +7,9 @@ import (
 	"path"
 	"testing"
 
+	"github.com/codegoalie/mailopen"
 	"github.com/gobuffalo/buffalo/mail"
 	"github.com/gobuffalo/flect"
-	"github.com/paganotoni/mailopen"
 
 	"github.com/stretchr/testify/require"
 )

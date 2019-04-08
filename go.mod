@@ -1,4 +1,4 @@
-module github.com/paganotoni/mailopen
+module github.com/codegoalie/mailopen
 
 require (
 	github.com/gobuffalo/buffalo v0.13.12
